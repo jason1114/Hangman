@@ -128,7 +128,7 @@
         android:layout_height="match_parent"
         android:background="#aa000000"
         android:id="@+id/loading_layout"
-        android:visibility="visible"
+        android:visibility="invisible"
         >
         <TextView
             android:layout_width="wrap_content"
