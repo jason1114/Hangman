@@ -1,6 +1,6 @@
 # Hangman
 Hangman Game For Android 
-[Download Debug APK](https://github.com/jason1114/Hangman/blob/master/)
+[Download Debug APK](https://github.com/jason1114/Hangman/blob/master/app-debug.apk)
 ## Tools Used
 
 + Volley: Handle all HTTP traffic
