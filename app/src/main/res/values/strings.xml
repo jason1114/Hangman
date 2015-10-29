@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="title_login">Login</string>
+    <string name="login_hint">Your ID here</string>
+    <string name="logging">Logging</string>
+    <string name="btn_login">Login</string>
+    <string name="default_account">znlswd@gmail.com</string>
+
+    <string name="server_data_error">Server data error.</string>
+    <string name="network_error">Network error</string>
+    <string name="new_game_started">New game started</string>
+
+    <string name="score">Score: %1$d</string>
+    <string name="score_invalidate">Score: %1$d?</string>
+    <string name="total">Total: %1$d</string>
+    <string name="tried">Tried: %1$d</string>
+    <string name="correct">Correct: %1$d</string>
+    <string name="correct_invalidate">Correct: %1$d?</string>
+    <string name="wrong_guess">Wrong Guess: %1$d</string>
+    <string name="wrong_guess_invalidate">Wrong Guess: %1$d?</string>
+    <string name="current_try">Current Try: %1$d/%2$d</string>
+    <string name="current_wrong_guess">Current Wrong Guess: %1$d/%2$d</string>
+
+    <string name="guess_right_hint">You nailed it!</string>
+    <string name="guess_fail_hint">Your fail to guess the word, try next!</string>
+    <string name="refresh_score_fail">Refresh score fail</string>
+
+    <string name="submit_ok">Score already submit!</string>
+
+</resources>
