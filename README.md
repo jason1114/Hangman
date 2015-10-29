@@ -21,9 +21,13 @@ Hangman Game For Android
 ## How to play
 
 + Login in first:
-![](https://github.com/jason1114/Hangman/blob/master/imgs/device-2015-10-29-192959.png)
+
+<img src="https://github.com/jason1114/Hangman/blob/master/imgs/device-2015-10-29-192959.png" width="300px">
+
 + Main User Interface:
-![](https://github.com/jason1114/Hangman/blob/master/imgs/device-2015-10-29-193602.png)
+
+<img src="https://github.com/jason1114/Hangman/blob/master/imgs/device-2015-10-29-193602.png" width="300px">
+
  + REFRESH: Refresh the current score
  + SUBMIT: Save current score to server
  + RESTART: Restart the game, if you haven't do SUBMIT, then your score will be lost
