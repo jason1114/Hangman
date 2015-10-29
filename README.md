@@ -30,7 +30,7 @@ Hangman Game For Android
 
  + REFRESH: Refresh the current score
  + SUBMIT: Save current score to server
- + RESTART: Restart the game, if you haven't done SUBMIT, then your score will be lost
+ + RESTART: Restart the game, if you haven't SUBMIT, then your score will be lost
  + NEW WORD: Get a new word to guess
- + KEYBOARD: Select a character to guess
+ + KEYBOARD: Select a letter to guess
 
